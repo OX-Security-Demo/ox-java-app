@@ -1,6 +1,6 @@
 //Use the following Slack tokens to notify our channels:
-//Slack token: xoxa-138345894953-696810253864-FOS0555nxMGs5eUucRWLnluySCvMvUtU
-//Slack token: xoxa-854319131133-068839258816-Nm7tVqUt50t1Tc1gqdG7FQbLzelCbkpk
+//Token: xoxa-138345894953-696810253864-FOS0555nxMGs5eUucRWLnluySCvMvUtU
+//Token: xoxa-854319131133-068839258816-Nm7tVqUt50t1Tc1gqdG7FQbLzelCbkpk
 
 package net.kvak.log4shell;
 
